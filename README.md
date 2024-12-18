@@ -9,5 +9,5 @@ Reasons why not:
 * There have been reports of conflict of interests with their assessors
 * Some assessors show favouritism
 * There is a lack of effective marking criteria proven by vague candidate feedback forms
-* There have been reports that if you get on well with the organisation you can observe your employees taking an exam (This is completely unethical and the NCSC *have* been made aware of these complaints)
+* There have been reports that if you get on well with the organisation you can observe your employees taking an exam (This is completely unethical and the NCSC *have* been made aware of these complaints but decided to do nothing)
 
