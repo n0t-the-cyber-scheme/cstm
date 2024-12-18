@@ -3,7 +3,9 @@
 Should the cyber scheme be in charge of an industry qualification?
 
 Reasons why not:
-* The training material here shows that they teach some pretty specific material.  there are topics in "The Knowledge" that seem like maybe it is for their multiple choice exam
+* The training material here shows that they teach some pretty specific material.
+*   there are topics in "The Knowledge" that seem like maybe it is for their multiple choice exam
+*   Ive also shared some of the key information from the slides that is suspiciously similar to the types of questions and tasks i had to do when i took the exam
 * There have been reports of conflict of interests with their assessors
 * Some assessors show favouritism
 * There is a lack of effective marking criteria proven by vague candidate feedback forms
